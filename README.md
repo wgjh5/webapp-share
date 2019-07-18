@@ -413,6 +413,10 @@ data () {
 
 ![vue-native-share](./img/vue-native-share.png)
 
+## 推荐：
+
+> 相对来说，本人更推荐第一种类型，相对来说兼容性更好(毕竟经过本人的亲自升级啦!)
+
 [参考链接vue-native-share](https://blog.csdn.net/weixin_38787928/article/details/86741227)
 
 [参考链接mshare](https://blog.csdn.net/weixin_38787928/article/details/86741227)
