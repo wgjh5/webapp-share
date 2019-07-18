@@ -28,6 +28,12 @@
 - 百度浏览器，百度APP不能直接分享
 - QQ空间APP，微信自带浏览器只能设置文案，分享需要用户手动点击右上角
 
+## 示例：
+
+[demo](https://wgjh5.github.io/webapp-share/dist/#/app)
+
+![Nativeshare](./img/QR.png)
+
 ### 用法(vue)
 
 #### Nativeshare
@@ -348,7 +354,7 @@ NativeShare一共只有五个实例方法
 
 图片示例：
 
-![Nativeshare](E:/webapp%E8%B0%83%E7%94%A8%E6%B5%8F%E8%A7%88%E5%99%A8%E5%88%86%E4%BA%AB/webshare/img/Nativeshare.png)
+![Nativeshare](./img/Nativeshare.png)
 
 [参考链接Nativeshare](https://github.com/fa-ge/nativeShare)
 
@@ -405,7 +411,7 @@ data () {
 
 图片示例：
 
-![vue-native-share](E:/webapp%E8%B0%83%E7%94%A8%E6%B5%8F%E8%A7%88%E5%99%A8%E5%88%86%E4%BA%AB/webshare/img/vue-native-share.png)
+![vue-native-share](./img/vue-native-share.png)
 
 [参考链接vue-native-share](https://blog.csdn.net/weixin_38787928/article/details/86741227)
 

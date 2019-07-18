@@ -27,9 +27,9 @@
 				config: {
 					title: '分享demo',
 					desc: '这是一个分享的demo',
-					img: 'https://avatars3.githubusercontent.com/u/43693262?s=400&u=2914eaab5c0e4a33236ae6d1f6c7e79099f96a38&v=4',
+					img: 'https://raw.githubusercontent.com/wgjh5/vueSummarize/master/img/QR.png',
 					img_title: '分享demo图片',
-					link: 'https://github.com/wgjh5',
+					link: 'https://wgjh5.github.io/webapp-share/dist/#/app',
 					success: () => {
 						alert('success')
 					}, //成功回调
@@ -43,10 +43,10 @@
 			sharePage() {
 				this.showShare = !this.showShare;
 				this.shareConfig = {
-					url: "https://github.com/wgjh5", //分享url
+					url: "https://wgjh5.github.io/webapp-share/dist/#/app", //分享url
 					title: "分享demo", //内容标题
 					desc: "这是一个分享的demo", //描述
-					img: "https://avatars3.githubusercontent.com/u/43693262?s=400&u=2914eaab5c0e4a33236ae6d1f6c7e79099f96a38&v=4" //分享的图片
+					img: "https://raw.githubusercontent.com/wgjh5/vueSummarize/master/img/QR.png" //分享的图片
 				};
 			},
 		},
